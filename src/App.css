@@ -1,0 +1,13 @@
+input{
+  width: 100px;
+  height:100px;
+  margin: 10px;
+  font-size: 50px;
+  background-color: beige;
+  color: black;
+}
+
+input:hover{
+  background-color: #fff;
+  border: 5px solid black;
+}
